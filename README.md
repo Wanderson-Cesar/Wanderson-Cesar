@@ -17,7 +17,7 @@
     <p align="center"> 
     Apaixonado por tecnologia
     <br>
-    Desenvolvedor Front End na TESW /tesw.com.br/
+    Desenvolvedor back-end na TESW /tesw.com.br/
     <br>
     Estudante de Sistemas para internet, IFPB  6/6
     </p>
